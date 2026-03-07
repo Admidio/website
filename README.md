@@ -1,2 +1,2 @@
 # website
-https://www.admdio.org/
+https://www.admidio.org/
